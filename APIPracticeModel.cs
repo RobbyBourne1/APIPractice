@@ -1,9 +1,9 @@
 using System.IO;
 
-namespace APIPractic
+namespace APIPractice
 {
 
-    public class User
+    public class Twitter
     {
         public int id { get; set; }
         public string id_str { get; set; }

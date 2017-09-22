@@ -1,0 +1,10 @@
+/Users/robbybourne/Projects/APIPractice/obj/Debug/netcoreapp2.0/APIPractice.csproj.CoreCompileInputs.cache
+/Users/robbybourne/Projects/APIPractice/obj/Debug/netcoreapp2.0/APIPractice.AssemblyInfoInputs.cache
+/Users/robbybourne/Projects/APIPractice/obj/Debug/netcoreapp2.0/APIPractice.AssemblyInfo.cs
+/Users/robbybourne/Projects/APIPractice/bin/Debug/netcoreapp2.0/APIPractice.deps.json
+/Users/robbybourne/Projects/APIPractice/bin/Debug/netcoreapp2.0/APIPractice.runtimeconfig.json
+/Users/robbybourne/Projects/APIPractice/bin/Debug/netcoreapp2.0/APIPractice.runtimeconfig.dev.json
+/Users/robbybourne/Projects/APIPractice/bin/Debug/netcoreapp2.0/APIPractice.dll
+/Users/robbybourne/Projects/APIPractice/bin/Debug/netcoreapp2.0/APIPractice.pdb
+/Users/robbybourne/Projects/APIPractice/obj/Debug/netcoreapp2.0/APIPractice.dll
+/Users/robbybourne/Projects/APIPractice/obj/Debug/netcoreapp2.0/APIPractice.pdb
